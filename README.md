@@ -25,5 +25,3 @@ This repository contains the Google Earth Engine (GEE) workflow and assets used 
 3. Update the `districtsAsset` variable with your asset id.
 4. Run step-by-step: first run NDVI single image, then time-series, then composites, then district zonal statistics.
 5. Use the Tasks tab to export images and CSVs.
-
-If you want, I can also prepare a GitHub repo for you and push this zip directly. Ask me to "create GitHub repo and push" and provide your GitHub repo name and PAT (or I can give instructions to upload manually).
