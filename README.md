@@ -11,7 +11,7 @@ This repository contains the Google Earth Engine (GEE) workflow and assets used 
 - `gee_script.js` : The main GEE Code Editor script (copy-paste into code.earthengine.google.com)
 - `README.md` : This file
 - `EXPORT_INSTRUCTIONS.md` : How to run exports and download CSVs from Earth Engine
-- `LICENSE` : MIT License
+- `LICENSE` : Creative Commons License
 - `images/` : Example screenshots (NDVI chart, district choropleth)
 
 **Notes**
